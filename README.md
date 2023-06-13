@@ -117,6 +117,12 @@ Feel free to give any recommendations [issues page](https://github.com/dev89s/ve
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project consider giving it a star on GitHub!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🙏 Acknowledgments <a id="acknowledgements"></a>
 
 I would like to thank microverse and Abdurahim in advance. You guys helped me to build this project by supporting me and providing resources.
