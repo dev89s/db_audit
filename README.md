@@ -6,7 +6,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-    <!-- - [🚀 Live Demo](#live-demo) -->
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -99,6 +98,14 @@ Example commands:
 
 - GitHub: [@UbdaNam](https://github.com/UbdaNam)
 - LinkedIn: [Abdurahim M.](https://www.linkedin.com/in/abdurahim-miftah/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Query and update animals table**
+- [ ] **Query multiple tables**
+- [ ] **Add database schema diagram**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
